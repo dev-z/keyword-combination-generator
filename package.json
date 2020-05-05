@@ -1,0 +1,20 @@
+{
+  "name": "finn-keyword-generator",
+  "version": "1.0.0",
+  "description": "keyword-combination-generator",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dev-z/keyword-combination-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dev-z/keyword-combination-generator/issues"
+  },
+  "homepage": "https://github.com/dev-z/keyword-combination-generator#readme",
+  "dependencies": {
+    "aws-sdk": "^2.669.0",
+    "event-stream": "^4.0.1",
+    "uuid": "^8.0.0"
+  }
+}
