@@ -13,7 +13,7 @@
   },
   "homepage": "https://github.com/dev-z/keyword-combination-generator#readme",
   "dependencies": {
-    "aws-sdk": "^2.669.0",
+    "aws-sdk": "^2.814.0",
     "event-stream": "^4.0.1",
     "uuid": "^8.0.0"
   }
